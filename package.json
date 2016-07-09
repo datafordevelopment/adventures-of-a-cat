@@ -1,0 +1,34 @@
+{
+  "name": "adventures-of-a-cat",
+  "version": "0.0.1",
+  "description": "A cat simulator game.",
+  "main": "src/js/index.js",
+  "scripts": {
+    "test": "npm version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpaceboyRoss01/adventures-of-a-cat.git"
+  },
+  "keywords": [
+    "Cat",
+    "Game",
+    "OS",
+    "X",
+    "Apple",
+    "Windows",
+    "Linux",
+    "Mac"
+  ],
+  "author": "Spaceboy Ross",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SpaceboyRoss01/adventures-of-a-cat/issues"
+  },
+  "homepage": "https://github.com/SpaceboyRoss01/adventures-of-a-cat#readme",
+  "dependencies": {
+    "appjs": "0.0.20",
+    "appjs-linux-x64": "0.0.19",
+    "electron": "^0.4.1"
+  }
+}
