@@ -1,0 +1,11 @@
+{
+  "name": "adventures-of-a-cat",
+  "main": "index.js",
+  "assets": [],
+  "styles": [],
+  "devAssets": [],
+  "moduleDir": "src",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}
